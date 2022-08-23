@@ -20,6 +20,6 @@ Radial gradients
 #### 5 hours
 
 ### Porject link
-[vercel link ](https://html-css-project8.vercel.app/)
+[vercel link ](https://project8-responsive.vercel.app/)
 
 ![badge](https://img.shields.io/badge/HTML-CSS-blue)
